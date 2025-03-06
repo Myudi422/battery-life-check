@@ -298,8 +298,16 @@ export default function BatteryLifeCheck() {
       </Dialog>
 
       {/* Google AdSense Script */}
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1022151986404286"
-     crossorigin="anonymous"></script>
+      <script type="text/javascript">
+	atOptions = {
+		'key' : '7202e48b6b3f5f7e2c04f48ba4e0c000',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/7202e48b6b3f5f7e2c04f48ba4e0c000/invoke.js"></script>
 
       <footer className="mt-8 text-center text-xs text-muted-foreground">
         <p>This tool checks your device's battery status.</p>
