@@ -171,6 +171,16 @@ export default function BatteryLifeCheck() {
         <p className="text-xs text-center text-muted-foreground mb-2">Advertisement</p>
         <div id="ad-container-top" className="min-h-[100px] flex items-center justify-center">
           {/* AdSense ads will be inserted here */}
+          <script type="text/javascript">
+	atOptions = {
+		'key' : '7202e48b6b3f5f7e2c04f48ba4e0c000',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/7202e48b6b3f5f7e2c04f48ba4e0c000/invoke.js"></script>
           <p className="text-sm text-muted-foreground">Loading advertisement...</p>
         </div>
       </div>
